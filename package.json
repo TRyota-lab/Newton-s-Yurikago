@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "cannon": "^0.6.2",
-    "three": "^0.114.0"
+    "three": "^0.137.0"
   }
 }
